@@ -4,7 +4,7 @@
 This **Power BI dashboard** provides key insights into **sales performance, revenue trends, and financial metrics**. It helps businesses track KPIs, optimize revenue, and improve decision-making with **interactive visualizations**.  
 
  **Live Dashboard:**  
-[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTc5NTAwMmUtMTUxNy00ZTM0LWI0NmQtYzdiNTIxM2YyYTg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)  
+[🔗 View Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTc5NTAwMmUtMTUxNy00ZTM0LWI0NmQtYzdiNTIxM2YyYTg5IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection0e765c0061580b067c73)  
 
   
 
